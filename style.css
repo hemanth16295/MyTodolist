@@ -2,6 +2,7 @@
 body {
   margin: 0;
   min-width: 250px;
+  background-color: #ec1c0d
 }
 
 /* Include the padding and border in an element's total width and height */
